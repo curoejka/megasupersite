@@ -1,6 +1,6 @@
 # Проект "PizzaHub" 🍕
 
-![Фото участника](img/IS24A_Chernyshev_AA.jpg "Чернышев Артём Алексеевич")
+![Фото участника](https://github.com/curoejka/megasupersite/blob/pizza-47/img/IS24A_Chernyshev_AA.jpg "Чернышев Артём Алексеевич")
 
 ## Описание программы
 
